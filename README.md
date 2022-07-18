@@ -1,3 +1,3 @@
 # OpenCV
 
-Latihan OpenCV
+Latihan Dasar OpenCV
