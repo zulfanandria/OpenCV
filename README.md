@@ -1,3 +1,3 @@
 # OpenCV
 
-Latihan Dasar OpenCV
+Latihan Dasar OpenCV menggunakan python
