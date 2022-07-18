@@ -1,2 +1,3 @@
 # OpenCV
-Latihan
+
+Latihan OpenCV
