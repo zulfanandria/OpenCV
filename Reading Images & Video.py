@@ -1,10 +1,8 @@
 import cv2 as cv
 
-# img = cv.imread('OpenCV/Photo/123.jpg')
-
-# cv.imshow('gambar', img)
-
-# cv.waitKey(0)
+img = cv.imread('OpenCV/Photo/123.jpg')
+cv.imshow('gambar', img)
+cv.waitKey(0)
 
 capture = cv.VideoCapture('OpenCV/Video/HBD.mp4')
 
